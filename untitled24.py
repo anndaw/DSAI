@@ -7,8 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1-uOsK3-u4o_3Q8SDeZN1VgQ9W91_JWGt
 """
 
-pip install streamlit
-
 import pandas as pd
 from sklearn.linear_model import LinearRegression
 from sklearn.metrics import mean_absolute_error, mean_squared_error, r2_score
